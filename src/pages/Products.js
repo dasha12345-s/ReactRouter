@@ -4,7 +4,7 @@ const PRODUCTS = [
   {id: 'p1', title: 'Prod1'},
   {id: 'p2', title: 'Prod2'},
   {id: 'p3', title: 'Prod3'},
-];;
+];
 
 export default function ProductPage(){
   return(
